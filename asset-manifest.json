@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/clubwebsite/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/clubwebsite/static/js/main.878330ec.chunk.js",
+    "main.js.map": "/clubwebsite/static/js/main.878330ec.chunk.js.map",
+    "runtime-main.js": "/clubwebsite/static/js/runtime-main.fe838bed.js",
+    "runtime-main.js.map": "/clubwebsite/static/js/runtime-main.fe838bed.js.map",
+    "static/js/2.5c520504.chunk.js": "/clubwebsite/static/js/2.5c520504.chunk.js",
+    "static/js/2.5c520504.chunk.js.map": "/clubwebsite/static/js/2.5c520504.chunk.js.map",
+    "static/js/3.cb0ceeb9.chunk.js": "/clubwebsite/static/js/3.cb0ceeb9.chunk.js",
+    "static/js/3.cb0ceeb9.chunk.js.map": "/clubwebsite/static/js/3.cb0ceeb9.chunk.js.map",
+    "index.html": "/clubwebsite/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/clubwebsite/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.5c520504.chunk.js.LICENSE.txt": "/clubwebsite/static/js/2.5c520504.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/clubwebsite/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe838bed.js",
+    "static/js/2.5c520504.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.878330ec.chunk.js"
+  ]
+}
