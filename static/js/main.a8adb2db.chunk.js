@@ -1,0 +1,2 @@
+(this.webpackJsonpclubwebsite=this.webpackJsonpclubwebsite||[]).push([[0],{10:function(e,t,s){"use strict";s.r(t);s(1);var c=s(3),n=s.n(c),r=(s(8),s(0));var i=function(){return Object(r.jsxs)("div",{className:"App",children:[Object(r.jsx)("h1",{children:"Hello World"}),Object(r.jsx)("h1",{children:"Test Test Test"})]})};n.a.render(Object(r.jsx)(i,{}),document.getElementById("root"))},8:function(e,t,s){}},[[10,1,2]]]);
+//# sourceMappingURL=main.a8adb2db.chunk.js.map
