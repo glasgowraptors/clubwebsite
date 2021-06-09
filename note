@@ -4,4 +4,8 @@
     to
         "deploy": "gh-pages -d build -r <repo_url>"
     Also to check all available flags just run npx gh-pages --help
-2. 
+2. Reset remote to origin: 
+    $ git remote remove origin
+    $ git remote add origin https://github.com/*your account*/*your project*.git
+    $ git push -u origin main 
+3. 
