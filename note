@@ -1,0 +1,7 @@
+1. For gp-page deployment: 
+    If u won't to add origin repo, just change command
+        "deploy": "gh-pages -d build"
+    to
+        "deploy": "gh-pages -d build -r <repo_url>"
+    Also to check all available flags just run npx gh-pages --help
+2. 
