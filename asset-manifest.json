@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/clubwebsite/static/css/main.3f719f8c.chunk.css",
-    "main.js": "/clubwebsite/static/js/main.88bd27ba.chunk.js",
-    "main.js.map": "/clubwebsite/static/js/main.88bd27ba.chunk.js.map",
+    "main.css": "/clubwebsite/static/css/main.b5cfd0b8.chunk.css",
+    "main.js": "/clubwebsite/static/js/main.1a895f43.chunk.js",
+    "main.js.map": "/clubwebsite/static/js/main.1a895f43.chunk.js.map",
     "runtime-main.js": "/clubwebsite/static/js/runtime-main.0c9e795e.js",
     "runtime-main.js.map": "/clubwebsite/static/js/runtime-main.0c9e795e.js.map",
     "static/js/2.ea0349c6.chunk.js": "/clubwebsite/static/js/2.ea0349c6.chunk.js",
     "static/js/2.ea0349c6.chunk.js.map": "/clubwebsite/static/js/2.ea0349c6.chunk.js.map",
     "index.html": "/clubwebsite/index.html",
-    "static/css/main.3f719f8c.chunk.css.map": "/clubwebsite/static/css/main.3f719f8c.chunk.css.map",
+    "static/css/main.b5cfd0b8.chunk.css.map": "/clubwebsite/static/css/main.b5cfd0b8.chunk.css.map",
     "static/js/2.ea0349c6.chunk.js.LICENSE.txt": "/clubwebsite/static/js/2.ea0349c6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0c9e795e.js",
     "static/js/2.ea0349c6.chunk.js",
-    "static/css/main.3f719f8c.chunk.css",
-    "static/js/main.88bd27ba.chunk.js"
+    "static/css/main.b5cfd0b8.chunk.css",
+    "static/js/main.1a895f43.chunk.js"
   ]
 }
