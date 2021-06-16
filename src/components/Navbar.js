@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
+import logo from '../assets/images/logo-1.png';
 
 import './Navbar.css';
 import { Button } from './Button';
@@ -30,8 +31,9 @@ function Navbar() {
             <nav className="navbar">
                 <div className="navbar-container">
                     <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-                     Glasgow Raptors   
+                    <img src={logo} alt="logo"/> &nbsp;Glasgow Raptors 
                     </Link>
+                    
                     <div className="menu-icon" onClick={handleClick}>
                         <i className={click ? 'fas fa-times' : 'fas fa-bars'}> </i>
                     </div>
