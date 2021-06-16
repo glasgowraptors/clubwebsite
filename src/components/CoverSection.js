@@ -9,8 +9,8 @@ function CoverSection() {
         <div className='cover-container'>
             <video src={covervideo} preload autoPlay muted loop playsInline /> 
             <h1>Welcome to</h1>
-            <h1>Glasgow Raptors Rugby Club</h1>
-            <h3> LGBTQ+ Inclusive </h3>
+            <h2>Glasgow Raptors</h2>
+            <h3> LGBTQ+ Inclusive Rugby Club</h3>
             <div className="cover-btns">
                 <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>JOIN US</Button>
             
