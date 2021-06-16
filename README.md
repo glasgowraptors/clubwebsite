@@ -1,6 +1,6 @@
-[Link to Website](https://glasgowraptors.github.io/clubwebsite/).
+# Link to website: [Glasgow Raptors](https://glasgowraptors.github.io/clubwebsite/)
 
-# Getting Started with Create React App
+** Coded by Sheldon
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
