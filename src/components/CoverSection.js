@@ -7,7 +7,7 @@ import covervideo from '../assets/videos/vid-01.mp4';
 function CoverSection() {
     return (
         <div className='cover-container'>
-            <video src={covervideo} autoPlay loop muted playsinline webkit-playsinline /> 
+            <video src={covervideo} preload autoPlay muted loop playsInline /> 
             <h1>Welcome to</h1>
             <h1>Glasgow Raptors Rugby Club</h1>
             <h3> LGBTQ+ Inclusive </h3>

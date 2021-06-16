@@ -4,6 +4,7 @@ video {
     height:100%;
     position: fixed;
     z-index: -1;
+    perspective:1000;
     -webkit-perspective: 1000;
 }
 
