@@ -21,7 +21,7 @@
   .navbar-logo {
     color: #fff;
     justify-self: start;
-    margin-left: 20px;
+    margin-left: 20px; /*default 20px*/
     cursor: pointer;
     text-decoration: none;
     font-size: 2rem;
@@ -120,9 +120,10 @@
   
     .navbar-logo {
       position: absolute;
-      top: 0;
+      top:0;
       left: 0;
-      transform: translate(25%, 50%);
+      transform: translate(15%, 15%);
+      align-items: center;
     }
   
     .menu-icon {
