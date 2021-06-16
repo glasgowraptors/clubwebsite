@@ -1,6 +1,6 @@
 # Link to website: [Glasgow Raptors](https://glasgowraptors.github.io/clubwebsite/)
 
-** Coded by Sheldon
+**Sheldon Fish**
 
 ## Available Scripts
 
